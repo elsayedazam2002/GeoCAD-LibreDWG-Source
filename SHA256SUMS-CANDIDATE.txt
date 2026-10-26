@@ -1,0 +1,1 @@
+5d5fbd589f45dcf787cdf38cfa68550f97d93cf97b1cb8768365f990d935a25d  libredwg-0.8.1-source-REVIEW-CANDIDATE.tar.gz
